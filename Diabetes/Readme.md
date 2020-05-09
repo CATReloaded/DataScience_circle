@@ -3,6 +3,7 @@
            * Mohamed Abdelhamid
 ## In this project we will be working with diabetes dataset, indicating whether or not a particular  patient has a diabetes disease or not . We will try to create a model that will predict whether or not  this person has the disease  based off the features of that patient.
 
+## Model used here is (KNN)
 ## This data set contains the following features:
 *  Pregnancies: Number of times pregnant
 *  Glucose : Plasma glucose concentration a 2 hours in an oral glucose tolerance test
@@ -13,3 +14,4 @@
 *  DiabetesPedigreeFunction : Diabetes pedigree function
 *  Age : Age (years)
 * Outcome : Class variable (0 or 1) 268 of 768 are 1, the others are 0
+
