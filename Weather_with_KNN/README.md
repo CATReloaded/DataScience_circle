@@ -1,1 +1,1 @@
-This is A Classification Problem Using K-NN Algorithm .
+This is a Classification Problem Using K-NN Algorithm .
